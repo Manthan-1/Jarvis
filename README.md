@@ -11,3 +11,4 @@ In order to run on this on ur device you need to install the following thing on 
 1. pyttsx3
 2. speechrecognition
 3. wikipedia
+4. pyautogui
