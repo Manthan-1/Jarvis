@@ -9,4 +9,5 @@ Jarvis is a simple personal assistant which works on the command line. He can ta
 
 In order to run on this on ur device you need to install the following thing on terminal with pip command:
 1. pyttsx3
-2. speechRecognition
+2. speechrecognition
+3. wikipedia
